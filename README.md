@@ -1,2 +1,6 @@
-# coffee
-i love coffee
+# Coffee
+
+* Guatemalan
+* Lattes
+* Vietnamese
+* Lots of sugar
